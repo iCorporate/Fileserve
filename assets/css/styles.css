@@ -1,0 +1,11 @@
+body {
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+
+.dontcare {
+  margin-right: 25%!important;
+  margin-left: 25%!important;
+}
+
